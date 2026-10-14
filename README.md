@@ -19,7 +19,7 @@
   - Practice / Challenges
 
 - 📫 How to reach me ...
-  - Please contact me by email at hkw.dev@outlook.com
+  - Please contact me by email at indomituzz@outlook.com
 
 <!---
 hkw-dev/hkw-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
